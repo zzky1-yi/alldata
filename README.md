@@ -16,7 +16,7 @@
 
 【发布计划】杭州奥零数据科技团队预发布AllData数据中台v1.4.1版本，2025年12月30会逐步发布由AllData商业版团队集成的80+新的开源项目框架。
 
-【产品矩阵：15+大模块】77777
+【产品矩阵：15+大模块】1
 
 模块1. 数据源平台: 多元数据接入枢纽，高效整合海量数据源头。
 
@@ -363,6 +363,7 @@
 ![image](https://github.com/user-attachments/assets/019c4f60-0816-4904-ad4c-622f36039643)
 ![image](https://github.com/user-attachments/assets/d2b90680-a7fa-4e51-b0dc-e2eb88d526e3)
 ![image](https://github.com/user-attachments/assets/27ef983d-83bd-46d2-b4f4-99903bdf15e1)
+
 
 
 
