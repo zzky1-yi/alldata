@@ -295,6 +295,24 @@
 
 ## 后台管理
 
+<img width="3200" height="1570" alt="1" src="https://github.com/user-attachments/assets/338a4ebf-cbdf-4fb0-a8f1-98e2bcda9d89" />
+<img width="3200" height="1570" alt="2" src="https://github.com/user-attachments/assets/a643092c-c0f9-4c0c-a1f7-e0ea67ddeab4" />
+<img width="3192" height="1560" alt="3" src="https://github.com/user-attachments/assets/dc185a13-6948-4d0d-ab2c-9d3163ae9c24" />
+<img width="3200" height="1564" alt="4" src="https://github.com/user-attachments/assets/710a2c7e-3673-476f-8eea-db0c46d311f2" />
+<img width="3200" height="1572" alt="5" src="https://github.com/user-attachments/assets/4e83cfc2-4baa-47d5-8262-33dca733004b" />
 
 
 ## 多租户管理平台
+
+・连接数据源（业务部门视角）
+<img width="1204" height="536" alt="1 连接数据源（业务部门视角）" src="https://github.com/user-attachments/assets/8d08f33b-8535-4311-88f7-deb3ce901248" />
+・数据源（数据中心视角）
+<img width="1211" height="900" alt="2 数据源（数据中心视角）" src="https://github.com/user-attachments/assets/5b2957f1-eb78-4435-b86b-4f54b30edcdc" />
+・仪表盘（业务部门视角）
+<img width="1372" height="926" alt="3 仪表盘（业务部门视角）" src="https://github.com/user-attachments/assets/4bc78a09-ff26-447f-bc37-efdb8de0c71a" />
+・仪表盘（数据中心视角）
+<img width="1380" height="924" alt="4 仪表盘（数据中心视角）" src="https://github.com/user-attachments/assets/ec107e18-3c4b-498f-add2-6cdf5227992d" />
+・系统概览（业务部门视角）
+<img width="1384" height="872" alt="5 系统概览（业务部门视角）" src="https://github.com/user-attachments/assets/78b871d8-a629-4de0-8ac7-faa14647e929" />
+・系统概览（数据中心视角）
+<img width="1384" height="871" alt="6 系统概览（数据中心视角）" src="https://github.com/user-attachments/assets/ecd7bba8-ea12-4b01-ab93-298ef30734ba" />
