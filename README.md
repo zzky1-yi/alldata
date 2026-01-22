@@ -12,7 +12,6 @@
 
 ![15+大模块](https://github.com/user-attachments/assets/4c46ade3-7b6b-43b9-a71f-fcc068cd3fe7)
 ![36+核心功能](https://github.com/user-attachments/assets/7d76a41b-ce65-4c38-b23d-7f332d20b6c6)
-
 ## AllData发展历程
 
 <img width="1400" src="https://github-readme-stats.vercel.app/api/pin/?username=alldatacenter&repo=alldata" />
@@ -315,4 +314,5 @@
 <img width="1384" height="872" alt="5 系统概览（业务部门视角）" src="https://github.com/user-attachments/assets/78b871d8-a629-4de0-8ac7-faa14647e929" />
 ・系统概览（数据中心视角）
 <img width="1384" height="871" alt="6 系统概览（数据中心视角）" src="https://github.com/user-attachments/assets/ecd7bba8-ea12-4b01-ab93-298ef30734ba" />
+
 
